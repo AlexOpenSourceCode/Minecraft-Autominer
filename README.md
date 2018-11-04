@@ -1,0 +1,1 @@
+Holds down forward button and left mouse click to automine in minecraft. Be careful not to fall into lava.
